@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{24C32813-A70F-4BF0-97E9-3EECC946C9AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelAndControllers", "ModelAndControllers\ModelAndControllers.csproj", "{D83537B5-7D23-4A49-BB80-8B847A927912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionedOdataBug", "VersionedOdataBug\VersionedOdataBug.csproj", "{E1ECCA5A-30EE-40AB-A3ED-E754EB371B65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C32813-A70F-4BF0-97E9-3EECC946C9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C32813-A70F-4BF0-97E9-3EECC946C9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C32813-A70F-4BF0-97E9-3EECC946C9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C32813-A70F-4BF0-97E9-3EECC946C9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83537B5-7D23-4A49-BB80-8B847A927912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83537B5-7D23-4A49-BB80-8B847A927912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83537B5-7D23-4A49-BB80-8B847A927912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83537B5-7D23-4A49-BB80-8B847A927912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1ECCA5A-30EE-40AB-A3ED-E754EB371B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1ECCA5A-30EE-40AB-A3ED-E754EB371B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1ECCA5A-30EE-40AB-A3ED-E754EB371B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1ECCA5A-30EE-40AB-A3ED-E754EB371B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
